@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPingerApp", "MyPingerApp.csproj", "{4162DA55-3C63-41EE-9C43-B4829989C3BD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5249D052-6767-4093-9C63-269F6D424E7A} = {5249D052-6767-4093-9C63-269F6D424E7A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPingerService", "..\MyPingerService\MyPingerService.csproj", "{44ED26D7-C55B-43B2-80FB-591486108541}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5249D052-6767-4093-9C63-269F6D424E7A} = {5249D052-6767-4093-9C63-269F6D424E7A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPingerCommon", "..\MyPingerCommon\MyPingerCommon.csproj", "{5249D052-6767-4093-9C63-269F6D424E7A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4162DA55-3C63-41EE-9C43-B4829989C3BD}.Debug.ActiveCfg = Debug|.NET
+		{4162DA55-3C63-41EE-9C43-B4829989C3BD}.Debug.Build.0 = Debug|.NET
+		{4162DA55-3C63-41EE-9C43-B4829989C3BD}.Release.ActiveCfg = Release|.NET
+		{4162DA55-3C63-41EE-9C43-B4829989C3BD}.Release.Build.0 = Release|.NET
+		{44ED26D7-C55B-43B2-80FB-591486108541}.Debug.ActiveCfg = Debug|.NET
+		{44ED26D7-C55B-43B2-80FB-591486108541}.Debug.Build.0 = Debug|.NET
+		{44ED26D7-C55B-43B2-80FB-591486108541}.Release.ActiveCfg = Release|.NET
+		{44ED26D7-C55B-43B2-80FB-591486108541}.Release.Build.0 = Release|.NET
+		{5249D052-6767-4093-9C63-269F6D424E7A}.Debug.ActiveCfg = Debug|.NET
+		{5249D052-6767-4093-9C63-269F6D424E7A}.Debug.Build.0 = Debug|.NET
+		{5249D052-6767-4093-9C63-269F6D424E7A}.Release.ActiveCfg = Release|.NET
+		{5249D052-6767-4093-9C63-269F6D424E7A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

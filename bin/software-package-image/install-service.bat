@@ -1,0 +1,1 @@
+instsrv MyPinger C:\MyPinger\MyPingerService.exe

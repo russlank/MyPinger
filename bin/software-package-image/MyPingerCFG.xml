@@ -1,0 +1,9 @@
+<PingedHosts>
+	<PingedHost IP="192.168.128.128" Interval="1000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+	<PingedHost IP="66.94.234.13" Interval="10000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+	<PingedHost IP="68.142.197.68" Interval="10000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+	<PingedHost IP="64.233.187.99" Interval="10000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+	<PingedHost IP="216.239.37.104" Interval="10000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+	<PingedHost IP="192.168.1.2" Interval="10000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+	<PingedHost IP="213.178.243.49" Interval="10000" Timeout="500" LogFile="C:\MyPinger\Log\({HOST}){DATE}.log" EventsFile="C:\MyPinger\Log\({HOST}){DATE}.txt"></PingedHost>
+</PingedHosts>
